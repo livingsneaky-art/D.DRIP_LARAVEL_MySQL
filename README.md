@@ -20,6 +20,7 @@ For customer
 Refer to documentation folder.
 
 .pdf - Design project 
+
 Screenshots
 # Contributors
 	LLAMIDO, RYAN
