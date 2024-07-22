@@ -29,6 +29,7 @@ Refer to documentation folder.
 Screenshots
 # Contributors
 	LLAMIDO, RYAN
+    CODOY, ROE ANN
 # Project Status
 Incomplete -24/-5/2022
 
